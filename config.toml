@@ -1,4 +1,4 @@
-baseURL = "https://twannatic.github.io/fcj-workshop/"
+baseURL = 'https://hung-789.github.io/fcj-workshop-main/'
 relativeURLs = false
 canonifyURLs = true
 defaultContentLanguage = "en"
