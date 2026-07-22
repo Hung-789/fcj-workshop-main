@@ -12,7 +12,7 @@ During my internship, I participated in one technology event organized by Amazon
 
 ### [Event 1](4.1-Event1/)
 
-&emsp;**Event Name:** AWS First Cloud AI Journey Community Day
+&emsp;**Event Name:** FCAJ Community Day
 
 &emsp;**Date & Time:** Saturday, June 6 , 2026
 
@@ -22,7 +22,7 @@ During my internship, I participated in one technology event organized by Amazon
 
 ### [Event 2](4.2-Event1/)
 
-&emsp;**Event Name:** Saturday Meet up
+&emsp;**Event Name:** FCAJ Community Day
 
 &emsp;**Date & Time:** Saturday, June 13 , 2026
 
