@@ -7,7 +7,7 @@ pre: " <b> 4.1. </b> "
 ---
 
 
-# Event Report: “Saturday Meet up”
+# Event Report: “FCAJ Community Day”
 
 ### Objectives of the Event
 
@@ -18,7 +18,7 @@ pre: " <b> 4.1. </b> "
 
 ### Event Information
 
-- **Event Name:** Saturday Meet up
+- **Event Name:** FCAJ Community Day
 - **Date:** Saturday, June 6, 2026
 - **Location:** Bitexco Financial Tower, Ho Chi Minh City
 
@@ -98,7 +98,7 @@ After experiencing and absorbing knowledge from the program, I realized many ele
 
 ### Event Experience
 
-Participating in the **Saturday Meet up** program was truly a meaningful and memorable milestone for me. The event not only helped me stay updated with the latest global technology trends but also provided a sharp practical perspective on how major enterprises deploy and operate systems on AWS.
+Participating in the **FCAJ Community Day** program was truly a meaningful and memorable milestone for me. The event not only helped me stay updated with the latest global technology trends but also provided a sharp practical perspective on how major enterprises deploy and operate systems on AWS.
 
 Through heartfelt sharing sessions from expert speakers, I gained a deeper understanding of modern cloud architectures, the practical value of Generative AI, and the comprehensive landscape of career opportunities in cloud computing. In particular, the open discussion (Fireside Chat) provided me with countless valuable real-world lessons regarding study paths, skill-building, and long-term career strategy planning.
 
@@ -115,7 +115,7 @@ Furthermore, the event's atmosphere opened up an exceptional environment for me 
 
 *Add your event photos here.*
 
-> Overall, the **Saturday Meet up** program left me with a massive and extremely useful pool of knowledge regarding Cloud Computing, Generative AI, and enterprise AWS system architecture. This serves as a powerful source of energy and motivation for me to persistently research, successfully complete my internship project, and step steadily forward on the journey to becoming a professional Cloud Engineer.
+> Overall, the **FCAJ Community Day** program left me with a massive and extremely useful pool of knowledge regarding Cloud Computing, Generative AI, and enterprise AWS system architecture. This serves as a powerful source of energy and motivation for me to persistently research, successfully complete my internship project, and step steadily forward on the journey to becoming a professional Cloud Engineer.
 
 #### Registration Area
 ![Registration](/images/4-Events/1.png)
