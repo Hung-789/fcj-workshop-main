@@ -7,7 +7,7 @@ pre: " <b> 4.2. </b> "
 ---
 
 
-# Event Report: “Saturday Meet up”
+# Event Report: “FCAJ Community Day”
 
 ### Objectives of the Event
 
@@ -18,7 +18,7 @@ pre: " <b> 4.2. </b> "
 
 ### Event Information
 
-- **Event Name:** Saturday Meet up (AWS Cloud & GenAI Insights)
+- **Event Name:** FCAJ Community Day (AWS Cloud & GenAI Insights)
 - **Date:** Saturday, June 13, 2026
 - **Location:** Bitexco Financial Tower, Ho Chi Minh City
 
@@ -96,7 +96,7 @@ After synthesizing the insights and technical sessions from the workshop, I have
 
 ### Event Experience
 
-Attending the **Saturday Meet up** provided a remarkably pragmatic perspective on how enterprise-grade solutions are conceptualized, deployed, and maintained in live production environments. Listening to real-world war stories and architectural choices made by expert engineers bridged the gap between theoretical knowledge and practical execution. 
+Attending the **FCAJ Community Day** provided a remarkably pragmatic perspective on how enterprise-grade solutions are conceptualized, deployed, and maintained in live production environments. Listening to real-world war stories and architectural choices made by expert engineers bridged the gap between theoretical knowledge and practical execution. 
 
 Furthermore, the interactive networking format allowed me to exchange ideas with fellow technology enthusiasts and professionals, broadening my technical horizon and reinforcing my commitment to mastering cloud technologies.
 
@@ -111,7 +111,7 @@ Furthermore, the interactive networking format allowed me to exchange ideas with
 
 *Add your event photos here.*
 
-> Overall, the **Saturday Meet up** workshop delivered an exceptional wealth of knowledge regarding enterprise AWS architectures and generative AI integration. This experience serves as a powerful catalyst, driving me to refine my internship project and push forward with confidence on my path toward becoming a professional Cloud Engineer.
+> Overall, the **FCAJ Community Day** workshop delivered an exceptional wealth of knowledge regarding enterprise AWS architectures and generative AI integration. This experience serves as a powerful catalyst, driving me to refine my internship project and push forward with confidence on my path toward becoming a professional Cloud Engineer.
 
 #### Registration Area
 ![Registration](/images/4-Events/1.png)
