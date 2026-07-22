@@ -12,7 +12,7 @@ Trong thời gian thực tập, em đã tham gia một sự kiện chuyên đề
 
 ### [Event 1](4.1-Event1/)
 
-&emsp;**Tên sự kiện:** Saturday Meet up
+&emsp;**Tên sự kiện:** FCAJ Community Day
 
 &emsp;**Thời gian:** Thứ Bảy, ngày 06/06/2026
 
@@ -22,7 +22,7 @@ Trong thời gian thực tập, em đã tham gia một sự kiện chuyên đề
 
 ### [Event 2](4.2-Event1/)
 
-&emsp;**Tên sự kiện:** Saturday Meet up
+&emsp;**Tên sự kiện:** FCAJ Community Day
 
 &emsp;**Thời gian:** Thứ Bảy, ngày 13/06/2026
 
